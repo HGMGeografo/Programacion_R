@@ -35,6 +35,6 @@ Horas cronológicas: 24; Créditos: 5
   * Nociones básicas de series de tiempo
 
 ## Evaluaciones
-Control 1: miércoles, 23 de junio de 2021 (1/3) <br>
-Control 2: miércoles, 14 de julio de 2021 (1/3)<br>
-Control 3: miércoles, 28 de julio de 2021 (1/3)<br>
+Control 1: miércoles, 23 de junio de 2021. Ponderación, 1/3. <br>
+Control 2: miércoles, 14 de julio de 2021. Ponderación, 1/3. <br>
+Control 3: miércoles, 28 de julio de 2021. Ponderación, 1/3. <br>
